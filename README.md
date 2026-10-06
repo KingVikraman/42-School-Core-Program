@@ -1,4 +1,7 @@
-![42-banner](https://github.com/KingVikraman/42-School-Core-Program/blob/main/asset/42-banner.png)
+<p align="center">
+	<img src="https://github.com/KingVikraman/42-School-Core-Program/blob/main/asset/42-banner.png" alt="42_Schools_Banner" width="100%">
+</p>
+
 
 
 
