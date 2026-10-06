@@ -29,7 +29,6 @@ Below is a selection of the projects I worked on during my time at 42 Kuala Lump
 	<img src="https://github.com/KingVikraman/42-School-Core-Program/blob/main/asset/profile.png" alt="42_Schools_Profile" width="100%">
 </p>
 
-![Profile](https://github.com/Mecha-Coder/42-School-Core-Program/blob/main/asset/profile.png)
 
 | Project | Description |                           Language / Technologies                       |
 |---------|-------------|-------------------------------------------------------------------------|
